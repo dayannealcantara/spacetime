@@ -35,6 +35,18 @@ export default function Home() {
         </a>
       </div>
 
+      <div className="text-sm leading-relaxed text-gray-200">
+        Feito com 💜 no NLW da{' '}
+        <a 
+          target="_blank"
+          rel="noreferrer"
+          className="underline hover:text-gray-100"
+          href="https://rocketseat.com.br"
+        >
+          Rocketseat
+        </a>
+      </div>
+
     </div>
     <div className='flex flex-col p-16'>
       <div className='flex flex-1 items-center justify-center'>
