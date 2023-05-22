@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 const { getDefaultConfig } = require('expo/metro-config')
 
 module.exports = (() => {
